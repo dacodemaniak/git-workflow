@@ -1,2 +1,6 @@
 # Environment variables
 .env
+
+# Exclude temporary files
+temp/*.temp
+temp/*.bak
