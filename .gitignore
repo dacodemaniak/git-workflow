@@ -4,3 +4,6 @@
 # Exclude temporary files
 temp/*.temp
 temp/*.bak
+
+# Exclude MacOS specifics
+.DS_STORE
