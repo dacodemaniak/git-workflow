@@ -1,6 +1,9 @@
 /**
 * styles.css
 **/
+:host {
+    --background-color: rgb(128, 128, 128);
+}
 body {
     margin: 0;
     padding: 0;
