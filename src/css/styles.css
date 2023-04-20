@@ -1,8 +1,16 @@
 /**
 * styles.css
 **/
+:host {
+    --background-color: rgb(128, 128, 128);
+}
 body {
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(128, 128, 128);
+}
+
+.container {
+    padding: 1em;
 }
