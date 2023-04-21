@@ -18,3 +18,23 @@ body {
 footer {
     color: #fff;
 }
+
+/**
+* Form input styles
+**/
+input {
+    border: none;
+    padding-left: .5em;
+    border-bottom: solid 1px rgb(12, 12, 150);
+    background-color: transparent;
+    color: #fff;
+}
+
+button {
+    width: 10em;
+    padding: .5em;
+    text-transform: uppercase;
+    border-radius: .4em;
+    background-color: rgb(25, 180, 25);
+    border: solid 1px #fff;
+}
